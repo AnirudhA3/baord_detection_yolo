@@ -1,1 +1,1 @@
-# baord_detection_yolo
+# board_detection_yolo
